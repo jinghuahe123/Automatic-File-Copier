@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5fd5df36-3ad2-4fd9-bf9e-9ec507171209" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Automatic File Copier.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FolderCheckTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FolderPoller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/config.properties" afterDir="false" />
+    <list default="true" id="5fd5df36-3ad2-4fd9-bf9e-9ec507171209" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/automaticFileBackup/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/automaticFileBackup/FolderCheckTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/automaticFileBackup/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automatic File Copier.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Automatic File Copier.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FolderCheckTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FolderPoller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/config.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,12 +39,15 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="FolderPoller" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FolderPoller" />
+    <configuration name="automaticFileBackup.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="automaticFileBackup.Main" />
       <module name="Automatic File Copier" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -53,7 +55,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FolderPoller" />
+        <item itemvalue="Application.automaticFileBackup.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -65,8 +67,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730542203401</updated>
-      <workItem from="1730542211120" duration="1679000" />
+      <workItem from="1730542211120" duration="1844000" />
+      <workItem from="1731178686862" duration="1756000" />
+      <workItem from="1731180500652" duration="351000" />
+      <workItem from="1731180953362" duration="422000" />
+      <workItem from="1731181400212" duration="682000" />
+      <workItem from="1731182610508" duration="3842000" />
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1730544735805</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730544735806</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,5 +97,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
